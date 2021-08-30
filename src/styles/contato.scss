@@ -1,0 +1,11 @@
+.section{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ gap: 30px;
+
+ img{
+  width: 300px;
+  height: auto;
+ }
+}

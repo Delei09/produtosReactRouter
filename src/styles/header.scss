@@ -1,0 +1,22 @@
+.header{
+ display: flex;
+ gap: 2rem;
+ align-items: center;
+ justify-content: center;
+ height: 70px;
+
+  a{
+   text-decoration: none;
+   color: black;
+   border-radius: 4px;
+   background-color: #e7e7e7;
+   padding: 5px 10px ;
+  }
+  a:hover {
+   background: rgba(0,0,0,0.3);
+  }
+  .ativo{
+   background: rgba(0,0,0,0.18);
+  }
+  
+}
